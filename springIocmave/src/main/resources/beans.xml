@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!--    <bean  id="sim" class="com.springIocpractise.Airtel"></bean>-->
+<!--    <bean id="sim" class="com.springIocpractise.Vodafone"></bean>-->
+<!--    <bean id="student1" class="com.seleniumexpress.dl.Student">-->
+<!--        <constructor-arg name="id" value="1"></constructor-arg>-->
+<!--        <constructor-arg name="name" value="anil"></constructor-arg>-->
+<!--    </bean>-->
+
+
+<!--    <bean id="student2" class="com.seleniumexpress.dl.Student">-->
+<!--        <constructor-arg name="id" value="2"></constructor-arg>-->
+<!--    <property name="name" value="pavan"></property>-->
+<!--    </bean>-->
+<bean id="mathcheatobject" class="com.selenuimexpress.dlo.MathCheat"></bean>
+
+    <bean id="student" class="com.selenuimexpress.dlo.Student">
+        <property name="id" value="1"></property>
+        <property name="mathCheat" ref="mathcheatobject">
+<!--            <bean class="com.selenuimexpress.dlo.MathCheat"></bean>-->
+        </property>
+    </bean>
+    <bean id="asu" class="com.selenuimexpress.dlo.AnotherStudent">
+        <property name="cheat" ref="mathcheatobject">
+<!--            <bean class="com.selenuimexpress.dlo.MathCheat"></bean>-->
+        </property>
+    </bean>
+
+</beans>
