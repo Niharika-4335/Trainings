@@ -1,12 +1,12 @@
 package com.selenuimexpress.dlo;
 
-public class MathCheat {
+public class MathCheat  implements  Cheat{
 //    public MathCheat() {
 //        System.out.println("mathcheat constructor is calling");
 //    }
 
-    public void mathCheat(){
-        System.out.println("some are cheating");
+    public void cheat(){
+        System.out.println("cheating in maths");
     }
 
 }

@@ -1,19 +1,20 @@
 package com.selenuimexpress.dlo;
 
 public class Student {
-    int id;
-    MathCheat mathCheat;
+    private Cheat cheat;
 
-    public void setId(int id) {
-        this.id = id;
-    }
 
-    public void setMathCheat(MathCheat mathCheat) {
-        this.mathCheat = mathCheat;
+//    public void setMathCheat(MathCheat mathCheat) {
+//        this.mathCheat = mathCheat;
+//    }MathCheat
+
+
+    public void setCheat(Cheat cheat) {
+        this.cheat = cheat;
     }
 
     public void cheating(){
-        mathCheat.mathCheat();
+        cheat.cheat();
     }
 
 }

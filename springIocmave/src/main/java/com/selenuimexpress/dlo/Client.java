@@ -14,8 +14,8 @@ public class Client {
         Student a=context.getBean("student",Student.class);
         a.cheating();
 
-        AnotherStudent b=context.getBean("asu",AnotherStudent.class);
-        b.anotherCheating();
+//        AnotherStudent b=context.getBean("asu",AnotherStudent.class);
+//        b.anotherCheating();
 
 
 
