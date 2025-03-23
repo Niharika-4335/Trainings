@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="317ebb51-9f43-455d-8c15-7b9d35700ed9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Employee Management/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Employee Management/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Employee Management/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Employee Management/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Employee Management/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Employee Management/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenExample/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenExample/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenExample/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MavenExample/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenExample/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenExample/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenExample/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenExample/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MavenExample/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trainings/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trainings/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trainings/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trainings/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trainings/Trainings.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trainings/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Trainings/src/test/demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/management/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/management/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/management/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/management/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/management/StreamOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/management/StreamOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servlet-jsp-playground/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../servlet-jsp-playground/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servlet-jsp-playground/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../servlet-jsp-playground/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servlet-jsp-playground/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../servlet-jsp-playground/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../servlet-jsp-playground/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../servlet-jsp-playground/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Niharika-4335&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Niharika-4335/Trainings.git&quot;,
+    &quot;accountId&quot;: &quot;523edaeb-97c5-4e50-9a65-0ac554badcfb&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2tTfU0rU8MOIQ5UB6RAHxupZS8l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/FL_LPT-361/Documents/Learnings/mavenobject/src/main/java/org/example/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="management.crud" />
+      <recent name="management" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="management.Main" />
+      <module name="mavenobject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="management.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="317ebb51-9f43-455d-8c15-7b9d35700ed9" name="Changes" comment="" />
+      <created>1740380998981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740380998981</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="management.RecordNotFoundException" package="management" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
